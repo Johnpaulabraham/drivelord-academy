@@ -1,0 +1,19 @@
+{
+  "name": "drivelord-academy",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "build": "tailwindcss -i ./gencss.css -o ./css/index.css",
+    "watch": "tailwindcss -i ./gencss.css -o ./css/index.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.4.7"
+  }
+}
