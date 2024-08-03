@@ -16,9 +16,13 @@ body {
     background-position: 90% -25%;
 }
 
-#main-header {
-    box-shadow: 0 0 .5em #0000004d
+#main-header, .shadow {
+    box-shadow: 0 0 .5em #0000004d;
 }
+
+/* #main-header {
+    box-shadow: 0 0 .5em #0000004d
+} */
 
 #cta {
     background-image: url(./images/bg-simplify-section-desktop.svg);

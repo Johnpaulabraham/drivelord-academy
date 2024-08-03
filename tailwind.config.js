@@ -12,6 +12,7 @@ module.exports = {
       colors: {
         primaryColor: "#003366",
         secondaryColor: "#F25F3A",
+        secondaryColor2: "#B80000",
         brightRed: "hsl(12, 88%, 59%)",
         brightRedLight: "hsl(12, 88%, 69%)",
         brightRedSupLight: "hsl(12, 88%, 95%)",
